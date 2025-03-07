@@ -1,4 +1,5 @@
-****👋 Hi there, I'm Nahima Machingal****
+# 👋 Hi there, I'm Nahima Machingal
+
 
 
 🚀 Enthusiastic Python Full Stack Developer with hands-on experience in building scalable web applications.
