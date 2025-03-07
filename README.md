@@ -1,4 +1,5 @@
 Hi there 👋, I'm Nahima Machingal
+
 🚀 Enthusiastic Python Full Stack Developer with hands-on experience in building scalable web applications. I hold an B.Tech in Computer Science and was recognized as a top performer during an intensive full-stack bootcamp. Passionate about delivering impactful solutions in dynamic, fast-growing teams.
 
 🔧 Technologies & Skills:
@@ -54,6 +55,9 @@ I’m a quick learner who loves to mentor junior developers, solve problems, and
 📫 How to reach me:
 Email: mhnahima@gmail.com
 PortFolio: https://nahimaportfolio.vercel.app/
+
 Personal Site: https://nahimamachingal.vercel.app/
+
 LinkedIn: https://www.linkedin.com/in/nahima-machingal-036b6b276/
+
 GitHub: https://github.com/NahimaMachingal
