@@ -2,8 +2,8 @@
 
 
 
-🚀 Enthusiastic Python Full Stack Developer with hands-on experience in building scalable web applications.
-🎓 B.Tech in Computer Science | 🏆 Top performer in an intensive full-stack bootcamp.
+🚀 Enthusiastic **Python Full Stack Developer** with hands-on experience in building scalable web applications.
+🎓 **B.Tech in Computer Science** | 🏆 **Top performer** in an intensive full-stack bootcamp.
 💡 Passionate about delivering impactful solutions in dynamic, fast-growing teams.
 
 **🔧 Technologies & Skills:**
