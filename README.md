@@ -60,12 +60,13 @@ I’m a quick learner who loves to mentor junior developers, solve problems, and
 📫 How to Reach Me:
 Email: mhnahima@gmail.com
 
-Portfolio: nahimaportfolio.vercel.app
+Portfolio: [nahimaportfolio](https://nahimaportfolio.vercel.app/)
 
-Personal Site: nahimamachingal.vercel.app
+Personal Site: [nahimamachingal](https://nahimamachingal.vercel.app/)
 
-LinkedIn: Nahima Machingal
+LinkedIn: [Nahima Machingal
+](https://www.linkedin.com/in/nahima-machingal-036b6b276/)
 
-GitHub: NahimaMachingal
+GitHub: [NahimaMachingal](https://github.com/NahimaMachingal)
 
 ⭐️ Feel free to check out my repositories and leave a star if you like them! 🌟
