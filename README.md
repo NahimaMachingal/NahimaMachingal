@@ -6,16 +6,16 @@
 🎓 **B.Tech in Computer Science** | 🏆 **Top performer** in an intensive full-stack bootcamp.
 💡 Passionate about delivering impactful solutions in dynamic, fast-growing teams.
 
-**🔧 Technologies & Skills:**
+🔧 **Technologies & Skills:**
 
+- **Languages**: Python, JavaScript, C
+- **Backend**: Django, Django Channels, RESTful APIs, WebSockets, Celery, Redis, AI, Firebase, Docker, CI/CD Pipelines
+- **Frontend**: React, Redux Toolkit, Tailwind CSS, Bootstrap, HTML, CSS
+- **Database**: PostgreSQL, MongoDB
+- **Cloud**: AWS (EC2, RDS)
+- **Tools**: Git, GitHub, Postman, VS Code, Figma, Canva
+- **Concepts**: Data Structures, Algorithms, OOP, Design Patterns
 
-**Languages:** Python, JavaScript, C
-**Backend:** Django, Django Channels, RESTful APIs, WebSockets, Celery, Redis, AI, Firebase, Docker, CI/CD Pipelines
-**Frontend:** React, Redux Toolkit, Tailwind CSS, Bootstrap, HTML, CSS
-**Database:** PostgreSQL, MongoDB
-**Cloud:** AWS (EC2, RDS)
-**Tools:** Git, GitHub, Postman, VS Code, Figma, Canva
-**Concepts:** Data Structures, Algorithms, OOP, Design Patterns
 
 
 **💻 Projects:**
